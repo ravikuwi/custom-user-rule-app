@@ -1,0 +1,4 @@
+Bundle-Name: custom-user-rule-app
+Bundle-SymbolicName: custom.user.rule.app
+Bundle-Version: 1.0.0
+Web-ContextPath: /content-targeting-rule-custom-user-rule-app
